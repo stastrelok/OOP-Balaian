@@ -165,7 +165,6 @@ public class Program
         }
         Console.WriteLine("------------------------------------------------------------------\n");
 
-        // Обчислення: середній рейтинг за жанрами
         Console.WriteLine("--- Середній рейтинг за жанрами ---");
         var averageRatingsByGenre = movies
             .GroupBy(movie => movie.GetGenre()) // Групуємо фільми за їхнім жанром (поліморфний виклик GetGenre)
