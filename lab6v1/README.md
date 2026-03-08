@@ -23,4 +23,4 @@
 * **LINQ:** Методи `Where`, `Select`, `Average`, `Sum`, `OrderByDescending`.
 
 ### 💻 Приклад виводу програми
-(./images/lab6.PNG)
+![Скриншот виводу:](./images/lab6.PNG)
