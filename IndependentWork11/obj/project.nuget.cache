@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOoPW7gmznk=",
+  "success": true,
+  "projectFilePath": "C:\\OOP\\OOP-Balaian\\IndependentWork11\\IndependentWork11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\polly\\8.6.6\\polly.8.6.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\polly.core\\8.6.6\\polly.core.8.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
